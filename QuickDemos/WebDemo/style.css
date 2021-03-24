@@ -1,5 +1,5 @@
 h1, h2 {
-    color:aqua;
+    color:blue;
     background-color: antiquewhite;
 }
 
@@ -11,4 +11,7 @@ h3, h4 {
 h5, h6 {
     color:pink;
     background-color: tan;
+}
+P{
+    background-color: green;
 }
